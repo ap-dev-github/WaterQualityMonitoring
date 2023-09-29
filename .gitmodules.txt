@@ -1,0 +1,2 @@
+[submodule "WaterQualityMonitoring.github.io"]
+    url = https://github.com/<username>/WaterQualityMonitoring.github.io.git
